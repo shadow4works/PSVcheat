@@ -1,4 +1,6 @@
 # PCSH00133 
+# 噬神者2：狂怒解放
+# https://github.com/shadow4works/PSVcheat/blob/main/PCSH/PCSH00133.psv
 
 _V0 解除装备限制
 $4001 888B1C3F 00000000
